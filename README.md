@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishad Sutar</h1>
 <h3 align="center">A passionate problem solver from India</h3>
 
-<img align = "right" alt = "coding" width="400" scr = "![image](https://github.com/Nishad-30/Nishad-30/assets/127684313/262941f9-b53b-4724-8b6d-0f2c5a0ad532)
-">
+<img align = "right" alt = "coding" width="400" scr = "https://github.com/Nishad-30/Nishad-30/assets/127684313/262941f9-b53b-4724-8b6d-0f2c5a0ad532">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishad-30&label=Profile%20views&color=0e75b6&style=flat" alt="nishad-30" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishad-30" alt="nishad-30" /></a> </p>
